@@ -42,3 +42,7 @@ python see_what_llm_said.py
 - **API Key**: 随便填，或者不填都可以（它会自动使用 `.env` 中配置的真实密钥）
 
 现在，你的插件发出的所有调用都会被实时呈现在看板上，并且完美支持中英文切换、响应耗时图表、Token 估算、和历史记录导出！
+
+
+<img width="2534" height="1136" alt="image" src="https://github.com/user-attachments/assets/8a1e3d82-9da9-49fb-b10f-bd0f7c46f9da" />
+
